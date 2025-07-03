@@ -10,6 +10,12 @@
 
 This isn't just another comment app. It's a **full-stack masterpiece** that demonstrates enterprise-level architecture in a beautifully simple package. Every line of code has been crafted with scalability, security, and user experience in mind.
 
+## 🚀 Live Demo
+
+Check out the live working version of the project here:
+
+🔗 [Live Demo – Comment App](https://resplendent-sunshine-54c4b4.netlify.app/)
+
 ### 🎯 **Live Demo Features**
 
 - **🔐 Secure Authentication** - JWT-based with persistent sessions
